@@ -1,5 +1,7 @@
 # IoT für nachhaltige Lieferketten von Lithium-Ionen-Batterien
 
+**Webseite mit Prototyp zum Ausprobieren:** https://tbayrem.github.io/iot-nachhaltige-lieferkette-batterien/
+
 Seminararbeit (M.Sc. Wirtschaftsinformatik, Hochschule Worms, 18.11.2024 bis 15.01.2025, Betreuung: Prof. Dr. Elisabeth Heinemann) von Bayrem Trabelsi.
 
 ## Forschungsfrage
